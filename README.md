@@ -16,6 +16,9 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
+python package-statistics.py -h
+```
+```bash
 python package-statistics.py -a mips64el
 ```
 ```bash
