@@ -1,7 +1,10 @@
 # Debian contents index parser
 
 ## Summary
-CLI tool for parse debian content index file
+CLI tool for parse debian content index file.
+
+## Time spent
+I probably spent for 3-4 hours for developing this cli tool with some breaks and testing.
 
 ## How-to-use guide
 1. Install python 3 latest stable version. Tested version 3.10.4
